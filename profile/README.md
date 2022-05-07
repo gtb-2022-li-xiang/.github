@@ -4,4 +4,4 @@ I'm glad to participate in GTB
 
 This is me:
 
-<img src="D:\tw-gtb\repo\.github\profile\assets\image-20220507151432069.png" alt="image-20220507151432069" style="zoom:25%;" />
+<img src="assets/image-me.png" alt="image-me" style="zoom:25%;" />
